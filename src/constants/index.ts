@@ -1,0 +1,1 @@
+export const fcmHost:string = 'https://fcm.googleapis.com/';

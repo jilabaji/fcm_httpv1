@@ -1,0 +1,26 @@
+{
+  "name": "fcm_httpv1",
+  "version": "1.0.0",
+  "description": "FCM Http v1 Method for sending push notifications to any device",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fcm",
+    "fcm_http_v1",
+    "fcm_http",
+    "fcm_rest_api"
+  ],
+  "author": "jilabaji <jilabaji@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.4"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "google-auth-library": "^9.11.0",
+    "googleapis": "^140.0.0",
+    "moment": "^2.30.1"
+  }
+}
