@@ -1,6 +1,6 @@
 {
   "name": "fcm_httpv1",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "FCM Http v1 Method for sending push notifications to any device",
   "main": "dist/index.js",
   "scripts": {
