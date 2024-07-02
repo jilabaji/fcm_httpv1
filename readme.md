@@ -3,7 +3,9 @@
 
 ### Description
 fcm_httpv1 is an npm package designed for seamless communication with Google Firebase Cloud Messaging (FCM). 
-It simplifies the process of sending push notifications to mobile devices by handling token creation and management internally. This package supports sending push messages to both topics and individual tokens, providing flexibility for various notification strategies.## How to Use
+It simplifies the process of sending push notifications to mobile devices by handling token creation and management internally. This package supports sending push messages to both topics and individual tokens, providing flexibility for various notification strategies.
+
+### How to Use
 Get the service Account Json file from the google cloud console and place it- in safe directory of the project, 
 such a JSON file is required to initiate the Package
 
